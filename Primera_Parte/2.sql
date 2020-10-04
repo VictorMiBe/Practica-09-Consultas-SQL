@@ -1,0 +1,3 @@
+SELECT * FROM pedido 
+ORDER BY total DESC 
+LIMIT 2;
